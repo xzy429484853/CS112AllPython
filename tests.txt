@@ -1,0 +1,155 @@
+INPUT
+80
+OUTPUT
+Weight of shipment(lbs): 
+Too heavy!
+
+INPUT
+30
+n
+OUTPUT
+Weight of shipment(lbs): Express shipment? 
+Shipment charge: $15.0
+
+INPUT
+10.8
+no
+OUTPUT
+Weight of shipment(lbs): Express shipment? 
+Shipment charge: $5.4
+
+INPUT
+0.0001
+n
+OUTPUT
+Weight of shipment(lbs): Express shipment? 
+Shipment charge: $0.01
+
+INPUT
+50.0
+no
+OUTPUT
+Weight of shipment(lbs): Express shipment? 
+Shipment charge: $25.0
+
+INPUT
+1
+y
+12666
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Out of range of Earth's surface!
+
+INPUT
+1
+y
+1.9
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $3.0
+
+INPUT
+1.0
+yes
+199.99
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $3.0
+
+INPUT
+1.00
+yes
+200
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $3.0
+
+INPUT
+1.00
+yes
+200.5
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $6.0
+
+INPUT
+3.0
+yes
+330.5
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $6.0
+
+INPUT
+4
+y
+300
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $13.0
+
+INPUT
+10.0
+yes
+999.99
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $32.5
+
+INPUT
+10.0
+yes
+2000
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $65.0
+
+INPUT
+10.00001
+yes
+300.0
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $28.0
+
+INPUT
+18.9
+y
+2000
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $140.0
+
+INPUT
+20
+y
+0.01
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $14.0
+
+INPUT
+30
+y
+100
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $30.0
+
+INPUT
+30.0
+y
+550.4
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $90.0
+
+INPUT
+50
+yes
+12450
+OUTPUT
+Weight of shipment(lbs): Express shipment? Distance of shipment(miles): 
+Shipment charge: $1890.0
+
+ENDTESTS
